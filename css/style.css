@@ -1,0 +1,25 @@
+@import "./utilitarios/global.css";
+@import "./utilitarios/componetes.css";
+@import "./utilitarios/fontes.css";
+
+@import "./introducao.css";
+
+@import "./about.css";
+
+@import "./tese-investimento.css";
+
+@import "./star.css";
+
+@import "./buz-news.css";
+
+@import "./startups.css";
+
+@import "./parceiros.css";
+
+@import "./footer.css";
+
+@import"./carrosel1.css";
+
+@import "./carrosel-baixo.css";
+
+@import "./legenda.css";
